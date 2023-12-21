@@ -1,0 +1,13 @@
+:root{
+    --color-acento: red;
+    --color-acento-claro: #ee613033;
+    --color-texto: red;
+}
+a{
+    text-decoration: none;
+    color: var(--color-texto)
+}
+a:hover{
+    color: var(--color-acento)
+}
+
